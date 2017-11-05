@@ -3,11 +3,11 @@ var TileMap = [{
 	passable: true
 },
 {
-	name: "CaveInterier-1",
+	name: "CaveInterior-1",
 	passable: false
 },
 {
-	name: "CaveInterier-2",
+	name: "CaveInterior-2",
 	passable: false
 },
 {
